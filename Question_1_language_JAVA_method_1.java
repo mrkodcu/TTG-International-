@@ -31,8 +31,7 @@ public class Question_1_language_JAVA_method_1 {
     {
         int n = a.length;
         int m = b.length;
-        for (int i = 0; i < n; i++)
-        {...}
+        for (int i = 0; i < n; i++){...}
     }
     public static void main(String[] args)
     {
