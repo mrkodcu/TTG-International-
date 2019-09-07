@@ -1,5 +1,5 @@
 /*# TTG International - Mülakat Çözümleri:
-###### 2.SORU PYTHON METHOD 2 ######*/
+###### 1.SORU CSHARP METHOD 1 ######*/
 using System;
 using System.Collections.Generic;
 using System.Linq;
