@@ -1,5 +1,5 @@
-# TTG International - Mülakat Çözümleri:
-###### 1.SORU JAVA METHOD 1 ######
+/*# TTG International - Mülakat Çözümleri:
+###### 1.SORU JAVA METHOD 1 ######*/
 public class Question_1_language_JAVA_method_1 {
     static void findMissing(int a[], int b[],int n, int m)
     {
@@ -22,9 +22,9 @@ public class Question_1_language_JAVA_method_1 {
         findMissing(a, b, n, m);
     }
 }
-//Sorudaki gibi fonkisyonun aynısı istenirse n,m değişkenleri atılabilir.
-//çünkü zaten iki fonksiyonunda uzunluğunu biliyoruz.Manuel olarak elle n ve m değişkenlerinin olduğu yere
-//6 ve 4 uzunluğunu girebiliriz veya uzunluk ölçmeyi  fonksiyonun içine alabiliriz. Örneğin :
+/*Sorudaki gibi fonkisyonun aynısı istenirse n,m değişkenleri atılabilir.
+çünkü zaten iki fonksiyonunda uzunluğunu biliyoruz.Manuel olarak elle n ve m değişkenlerinin olduğu yere
+6 ve 4 uzunluğunu girebiliriz veya uzunluk ölçmeyi  fonksiyonun içine alabiliriz. Örneğin :
 
 public class Question_1_language_JAVA_method_1 {
     static void findMissing(int a[], int b[])
@@ -41,4 +41,4 @@ public class Question_1_language_JAVA_method_1 {
         findMissing(a, b);
     }
 }
-#################################
+#################################/*
