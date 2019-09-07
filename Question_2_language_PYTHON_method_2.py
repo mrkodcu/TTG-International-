@@ -13,4 +13,6 @@ array = [1, 2, 3, 4, 5, 6]
 rotate(array, 1)
 print(array)
 
-#Java methodunun python örneğidir.
+
+#Java methodunun python versiyonudur.
+####################################
