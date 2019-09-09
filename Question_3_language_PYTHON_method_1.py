@@ -47,3 +47,5 @@ if __name__ == "__main__":
     txtdosyasi.close()
 #Sıralama işlemini öncelikli olarak baştaki 2 digital control numarası sonrasında sondaki 16 kişisel digital koda göre sıraladık eğer direk
 #sort methodu ile sıralasak ortaki 8 banka kodunuda işin içine katacağı için iyi bir sonuç alamayabilirdik.
+#Dosyaya grup grup yazdırmak yerine toplu bir şekildede yazdırabilirdik lakin programda bir sıkıntı çıkarsa ne kadar veri kurtarabilirsek kar mantığını 
+#düşünrek iş bölümü yapıp parça parça yazdırma kararı aldım.
