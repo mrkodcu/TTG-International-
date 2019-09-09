@@ -8,7 +8,7 @@ def grubu_düzenle():
 
         for i in range(int(adet)):
             bilgiler += [txtdosyasi.readline().split()]
-        bilgiler.sort(key=lambda bilgiler: (bilgiler[0], bilgiler[2], bilgiler[3], bilgiler[4], bilgiler[5]))
+        bilgiler.sort(key=lambda bilgiler: (bilgiler[0], bilgiler[2]))
 
         for i in range(len(bilgiler)):
             tane = bilgiler.count(bilgiler[i])
